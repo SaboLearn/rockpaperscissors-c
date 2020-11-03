@@ -42,12 +42,12 @@ namespace Project
                     Console.Clear();
                     Console.ForegroundColor = ConsoleColor.Cyan;
                     Console.WriteLine("");
-                    Console.WriteLine(" ███████╗ █████╗ ██████╗  ██████╗ ");
-                    Console.WriteLine(" ██╔════╝██╔══██╗██╔══██╗██╔═══██╗");
-                    Console.WriteLine(" ███████╗███████║██████╔╝██║   ██║");
-                    Console.WriteLine(" ╚════██║██╔══██║██╔══██╗██║   ██║");
-                    Console.WriteLine(" ███████║██║  ██║██████╔╝╚██████╔╝");
-                    Console.WriteLine(" ╚══════╝╚═╝  ╚═╝╚═════╝  ╚═════╝ ");
+                    Console.WriteLine(" ██████╗ ██████╗ ███████╗");
+                    Console.WriteLine(" ██╔══██╗██╔══██╗██╔════╝");
+                    Console.WriteLine(" ██████╔╝██████╔╝███████╗");
+                    Console.WriteLine(" ██╔══██╗██╔═══╝ ╚════██║");
+                    Console.WriteLine(" ██║  ██║██║     ███████║");
+                    Console.WriteLine(" ╚═╝  ╚═╝╚═╝     ╚══════╝");
                     Console.ForegroundColor = ConsoleColor.Green;
                     Console.WriteLine(" ---------------------------------");
                     Console.ForegroundColor = ConsoleColor.DarkGreen;
